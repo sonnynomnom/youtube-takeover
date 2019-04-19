@@ -12,9 +12,10 @@ May 15th - June 15th: Build out living room studio
 - How to Build an Office Greeter
 - How to Build an Instagram Filter
 - How to Build a Chrome Extension
+- Pimp My Terminal
 
 ### Boba Time ###
-_Interview with cool folks in Tech._
+_Interview with cool folks in tech._
 
 - Boba Time Ep #1: with _____
 - Boba Time Ep #2: with _____

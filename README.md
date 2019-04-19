@@ -19,7 +19,7 @@ _Interview with cool folks in tech._
 
 - Boba Time Ep #1: with _____
 - Boba Time Ep #2: with _____
-- Boba Time Ep #2: with _____
+- Boba Time Ep #2: with Luba
 
 ### A Day in the Life: Codecademy Edition ###
 
@@ -36,9 +36,11 @@ _Interview with cool folks in tech._
 - Office Tour Ep #4: Kickstarter
 - Office Tour Ep #5: Spotify
 
-### Misc ###
+### Story Time! ###
 
-What's one thing you can live without.
+- 100 Coders Tell Us Their Worst Bugs
+- 100 Coders Show Us Their Terminals
+- What's one tool you can't live without.
 
 ### Mini Documentaries ###
 

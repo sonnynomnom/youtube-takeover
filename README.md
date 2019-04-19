@@ -1,23 +1,24 @@
 # youtube-takeover
 
 May 15th: Move into new apartment
-
 May 15th - June 15th: Build out living room studio
 
-
-
-### How to Series ###
+### How to Playlist ###
 
 - How to Web Scrape Using BeautifulSoup
     - Craiglist, SFPC
 - How to Command Line (echo, houses)
 - How to Build a Slackbot
 - How to Build an Office Greeter
+- How to Build an Instagram Filter
+- How to Build a Chrome Extension
 
 ### Boba Time ###
+_Interview with cool folks in Tech._
 
-- Boba Time with 
-- Boba Time with 
+- Boba Time Ep #1: with _____
+- Boba Time Ep #2: with _____
+- Boba Time Ep #2: with _____
 
 ### A Day in the Life: Codecademy Edition ###
 
@@ -29,7 +30,12 @@ May 15th - June 15th: Build out living room studio
 ### Office Tour Season 1: New York City
 
 - Office Tour Ep #1: Codecademy
-- Office TOur EP #2: Adafruit
+- Office Tour EP #2: Adafruit
 - Office Tour Ep #3: Warby Parker
 - Office Tour Ep #4: Kickstarter
 - Office Tour Ep #5: Spotify
+
+### Misc ###
+
+What's one thing you can live without.
+

@@ -3,6 +3,9 @@
 May 15th: Move into new apartment
 May 15th - June 15th: Build out living room studio
 
+
+# Some ideas for different serieses/playlists:
+
 ### How to Playlist ###
 
 - How to Web Scrape Using BeautifulSoup
@@ -36,7 +39,7 @@ _Interview with cool folks in tech._
 - Office Tour Ep #4: Kickstarter
 - Office Tour Ep #5: Spotify
 
-### Story Time! ###
+### 100 Coders ###
 
 - 100 Coders Tell Us Their Worst Bugs
 - 100 Coders Show Us Their Terminals

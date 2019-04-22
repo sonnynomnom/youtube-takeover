@@ -1,6 +1,6 @@
 # youtube-takeover
 
-May 15th: Move into new apartment
+May 15th: Move into new apartment  
 May 15th - June 15th: Build out living room studio
 
 
@@ -38,6 +38,8 @@ _Interview with cool folks in tech._
 - Office Tour Ep #3: Warby Parker
 - Office Tour Ep #4: Kickstarter
 - Office Tour Ep #5: Spotify
+
+360 camera shots?
 
 ### 100 Coders ###
 

@@ -6,7 +6,7 @@ May 15th - June 15th: Build out living room studio
 
 # Some ideas for different serieses/playlists:
 
-### How to Playlist ###
+### Build with Sonny ###
 
 - How to Web Scrape Using BeautifulSoup
     - Craiglist, SFPC
@@ -20,8 +20,8 @@ May 15th - June 15th: Build out living room studio
 ### Boba Time ###
 _Interview with cool folks in tech._
 
-- Boba Time Ep #1: with _____
-- Boba Time Ep #2: with _____
+- Boba Time Ep #1: with Josh Goldberg
+- Boba Time Ep #2: with Doug de 
 - Boba Time Ep #3: with Luba
 - Boba Time Ep #4: with Bjarne Stroustrup
 

@@ -6,7 +6,7 @@ May 15th - June 15th: Build out living room studio
 
 # Some ideas for different serieses/playlists:
 
-### Build with Sonny ###
+### Sunday Shenanigans with Sonny ###
 
 - How to Web Scrape Using BeautifulSoup
     - Craiglist, SFPC

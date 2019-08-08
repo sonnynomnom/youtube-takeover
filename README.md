@@ -22,7 +22,8 @@ _Interview with cool folks in tech._
 
 - Boba Time Ep #1: with _____
 - Boba Time Ep #2: with _____
-- Boba Time Ep #2: with Luba
+- Boba Time Ep #3: with Luba
+- Boba Time Ep #4: with Bjarne Stroustrup
 
 ### A Day in the Life: Codecademy Edition ###
 
@@ -33,15 +34,18 @@ _Interview with cool folks in tech._
 
 ### Office Tour Season 1: New York City
 
-- Office Tour Ep #1: Codecademy
-- Office Tour EP #2: Adafruit
-- Office Tour Ep #3: Warby Parker
-- Office Tour Ep #4: Kickstarter
-- Office Tour Ep #5: Spotify
+- HQ Tour Ep #1: Codecademy
+- HQ Tour EP #2: Adafruit
+- HQ Tour Ep #4: Kickstarter 
+- HQ Tour Ep #3: Warby Parker
+- HQ Tour Ep #5: Spotify
+- HQ Tour Ep #6: Glitch
+- HQ Tour Ep #7: Etsy
+- HQ Tour Ep #8: WeWork
 
 360 camera shots?
 
-### 100 Coders ###
+### #100Coders ###
 
 - 100 Coders Tell Us Their Worst Bugs
 - 100 Coders Show Us Their Terminals
